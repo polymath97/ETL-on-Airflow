@@ -1,0 +1,5 @@
+1. Apache Airflow is an open-source platform that helps you automate, schedule, monitor, and manage your data workflows and tasks. It provides a way to programmatically define, schedule, and orchestrate workflows, making it easier to manage complex data processing, ETL (Extract, Transform, Load) jobs, and other tasks in a reliable and organized manner.
+
+2. Great Expectations is a tool that helps to validate and test data to ensure it meets the expectations. In simple terms, it's like having a checklist for our data to make sure it's accurate and reliable. 
+
+3. Batch processing is a way to process data where the processing is done with partial batches of the complete data and usually processed on a specific schedule or at a regular interval.
